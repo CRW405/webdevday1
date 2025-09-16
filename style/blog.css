@@ -35,3 +35,26 @@ code {
     background-color: black;
     display: block;
 }
+
+li {
+    list-style: none;
+}
+
+.album_cover {
+    width: 30%;
+    padding: 1%;
+}
+
+#post5 {
+    text-align: center;
+}
+
+.album_list {
+    display: contents;
+    padding-left: 0;
+    margin-left: o;
+}
+
+.album_cover li {
+    float: left;
+}
