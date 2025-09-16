@@ -25,6 +25,13 @@ nav {
     display: inline-block;
 }
 
-nav a {
+a {
     color: white;
+}
+
+code {
+    padding: 2%;
+    border-radius: 2%;
+    background-color: black;
+    display: block;
 }
